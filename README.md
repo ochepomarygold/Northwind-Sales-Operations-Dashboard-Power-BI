@@ -44,5 +44,5 @@ The dashboard provides insights that support better sales planning, customer pri
 - Power Query
 - DAX
 - Data Modeling
-- Interactive Dashboard Design
+- Interactive Dashboard Design.
 
