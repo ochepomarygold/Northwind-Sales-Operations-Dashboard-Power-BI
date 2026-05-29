@@ -41,6 +41,7 @@ The dashboard provides insights that support better sales planning, customer pri
 - Optimize staffing and logistics around peak sales days.
 
   ---
+  Dashboard Preview
   
 ## <img width="1354" height="686" alt="Northwind 1_4_2026 22_39_10" src="https://github.com/user-attachments/assets/277575d0-7ba4-4f9a-8298-15f238ad770d" />
 
